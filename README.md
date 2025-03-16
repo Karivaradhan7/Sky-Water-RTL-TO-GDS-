@@ -1,5 +1,5 @@
 # Sky-Water-RTL-TO-GDS-
-This repository documents the RTL-to-GDSII flow for an Not Gate using the SkyWater 130nm PDK on Ubuntu. It covers RTL design (Verilog), synthesis (Yosys), floorplanning &amp; placement, routing, and signoff, followed by the final GDS export
+This repository documents the RTL-to-GDSII flow for a Not Gate using the SkyWater 130nm PDK on Ubuntu. It covers RTL design (Verilog), synthesis (Yosys), floorplanning &amp; placement, routing, and signoff, followed by the final GDS export
 
 📂 RTL/
 This folder contains the RTL (Register Transfer Level) design of the inverter in Verilog. It includes the initial design files and testbenches used for functional verification.
